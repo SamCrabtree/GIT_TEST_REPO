@@ -17,3 +17,7 @@ In order to properly use this repo:
 
 I will review your changes and reject the request, but I will message you back with any feedback. 
 
+BONUS!
+
+1. Review the HTML file in your own web browser. 
+2. View the page using your web browsers dev tools. 
